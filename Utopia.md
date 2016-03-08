@@ -57,6 +57,13 @@ Así pues, ordenados por velocidad (independientemente de si son amigos o enemig
 Si el jugador pierde, y por ello todas sus unidades mueren,  este ve una pantalla de "GameOver" y se le ofrece reintentar el nivel.
 
 
+Imágenes
+-----------
+Vemos un ejemplo de 2 jugadas. En el primer turno, el soldado se mueve pero no puede atacar, porque no tiene el mago a rango. En General information se podría mostrar el HP, los movimientos restantes, etc.
+![enter image description here](https://github.com/Hack-A-Game/Propostes/raw/master/Utopia-Turn1.png)
+En el turno 2, el mago se mueve y, al tener a rango al soldado, le lanza un ataque mágico a distancia.
+![enter image description here](https://github.com/Hack-A-Game/Propostes/raw/master/Utopia-Turn2.png)
+
 Mejoras
 ----------
 
